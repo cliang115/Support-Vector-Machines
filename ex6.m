@@ -11,10 +11,7 @@
 %     dataset3Params.m
 %     processEmail.m
 %     emailFeatures.m
-%
-%  For this exercise, you will not need to change any code in this file,
-%  or any other files other than those mentioned above.
-%
+
 
 %% Initialization
 clear ; close all; clc
